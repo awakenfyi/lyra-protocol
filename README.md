@@ -1,3 +1,7 @@
+> **This repository is being archived.** The input-sufficiency material moves to [awakenfyi/xop-kit](https://github.com/awakenfyi/xop-kit) and the xOP Author skill moves to [awakenfyi/xop](https://github.com/awakenfyi/xop). Content is preserved here for reference.
+
+---
+
 # Lyra
 
 **Apply Lyra to any skill. Get the version that doesn't perform.**
